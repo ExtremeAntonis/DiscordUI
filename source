@@ -1310,7 +1310,7 @@ function DiscordLib:Window(text)
 		HashtagLabel.Position = UDim2.new(0.765877604, 0, -0.0546001866, 0)
 		HashtagLabel.Size = UDim2.new(0, 23, 0, 37)
 		HashtagLabel.Font = Enum.Font.Gotham
-		HashtagLabel.Text = "@"
+		HashtagLabel.Text = ""
 		HashtagLabel.TextColor3 = Color3.fromRGB(79, 82, 88)
 		HashtagLabel.TextSize = 16.000
 
@@ -1323,6 +1323,7 @@ function DiscordLib:Window(text)
 		TagTextbox.Font = Enum.Font.Gotham
 		TagTextbox.PlaceholderColor3 = Color3.fromRGB(210, 211, 212)
 		TagTextbox.Text = tag
+        TagTextbox.TextTransparency = 1.000
 		TagTextbox.TextColor3 = Color3.fromRGB(193, 195, 197)
 		TagTextbox.TextSize = 14.000
 		TagTextbox.TextXAlignment = Enum.TextXAlignment.Left
