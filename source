@@ -242,22 +242,6 @@ function DiscordLib:Window(text)
 	UserName.TextXAlignment = Enum.TextXAlignment.Left
 	UserName.ClipsDescendants = true
 
-	UserTag.Name = "UserTag"
-	UserTag.Parent = Userpad
-	UserTag.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-	UserTag.BackgroundTransparency = 1.000
-	UserTag.BorderSizePixel = 0
-	UserTag.Position = UDim2.new(0.230000004, 0, 0.455000013, 0)
-	UserTag.Size = UDim2.new(0, 95, 0, 17)
-	UserTag.Font = Enum.Font.Gotham
-	UserTag.TextColor3 = Color3.fromRGB(255, 255, 255)
-	UserTag.TextSize = 13.000
-	UserTag.TextTransparency = 0.300
-	UserTag.TextXAlignment = Enum.TextXAlignment.Left
-	
-	UserName.Text = user
-	UserTag.Text = "@" .. tag
-
 	ServersHoldFrame.Name = "ServersHoldFrame"
 	ServersHoldFrame.Parent = MainFrame
 	ServersHoldFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
