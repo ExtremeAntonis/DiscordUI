@@ -1676,7 +1676,7 @@ function DiscordLib:Window(text)
 		ServerTitle.Font = Enum.Font.GothamSemibold
 		ServerTitle.Text = text
 		ServerTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
-		ServerTitle.TextSize = 15.000
+		ServerTitle.TextSize = 20.000
 		ServerTitle.TextXAlignment = Enum.TextXAlignment.Left
 
 		GlowFrame.Name = "GlowFrame"
