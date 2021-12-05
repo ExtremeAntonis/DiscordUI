@@ -179,19 +179,19 @@ function DiscordLib:Window(text)
 	MinimizeBtn.Size = UDim2.new(0, 28, 0, 22)
 	MinimizeBtn.Font = Enum.Font.Gotham
 	MinimizeBtn.Text = ""
-	MinimizeBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+	MinimizeBtn.TextColor3 = Color3.fromRGB(48,204,116)
 	MinimizeBtn.TextSize = 14.000
 	MinimizeBtn.BorderSizePixel = 0
 	MinimizeBtn.AutoButtonColor = false
 
 	MinimizeIcon.Name = "MinimizeLabel"
 	MinimizeIcon.Parent = MinimizeBtn
-	MinimizeIcon.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	MinimizeIcon.BackgroundColor3 = Color3.fromRGB(48,204,116)
 	MinimizeIcon.BackgroundTransparency = 1.000
 	MinimizeIcon.Position = UDim2.new(0.189182192, 0, 0.128935531, 0)
 	MinimizeIcon.Size = UDim2.new(0, 17, 0, 17)
 	MinimizeIcon.Image = "http://www.roblox.com/asset/?id=6035067836"
-	MinimizeIcon.ImageColor3 = Color3.fromRGB(46, 204, 113)
+	MinimizeIcon.ImageColor3 = Color3.fromRGB(8,4,4)
 
 	ServersHolder.Name = "ServersHolder"
 	ServersHolder.Parent = TopFrameHolder
