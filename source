@@ -1283,18 +1283,6 @@ function DiscordLib:Window(text)
 		TextBoxFrame1Corner.Name = "TextBoxFrame1Corner"
 		TextBoxFrame1Corner.Parent = TextBoxFrame1
 
-		UsernameTextbox.Name = "UsernameTextbox"
-		UsernameTextbox.Parent = TextBoxFrame1
-		UsernameTextbox.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-		UsernameTextbox.BackgroundTransparency = 1.000
-		UsernameTextbox.Position = UDim2.new(0.0378548913, 0, 0, 0)
-		UsernameTextbox.Size = UDim2.new(0, 221, 0, 37)
-		UsernameTextbox.Font = Enum.Font.Gotham
-		UsernameTextbox.Text = user
-		UsernameTextbox.TextColor3 = Color3.fromRGB(193, 195, 197)
-		UsernameTextbox.TextSize = 14.000
-		UsernameTextbox.TextXAlignment = Enum.TextXAlignment.Left
-
 		Seperator.Name = "Seperator"
 		Seperator.Parent = TextBoxFrame1
 		Seperator.AnchorPoint = Vector2.new(0.5, 0.5)
@@ -1313,20 +1301,6 @@ function DiscordLib:Window(text)
 		HashtagLabel.Text = ""
 		HashtagLabel.TextColor3 = Color3.fromRGB(79, 82, 88)
 		HashtagLabel.TextSize = 16.000
-
-		TagTextbox.Name = "TagTextbox"
-		TagTextbox.Parent = TextBoxFrame1
-		TagTextbox.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-		TagTextbox.BackgroundTransparency = 1.000
-		TagTextbox.Position = UDim2.new(0.824999988, 0, -0.0280000009, 0)
-		TagTextbox.Size = UDim2.new(0, 59, 0, 38)
-		TagTextbox.Font = Enum.Font.Gotham
-		TagTextbox.PlaceholderColor3 = Color3.fromRGB(210, 211, 212)
-		TagTextbox.Text = tag
-        TagTextbox.TextTransparency = 1.000
-		TagTextbox.TextColor3 = Color3.fromRGB(193, 195, 197)
-		TagTextbox.TextSize = 14.000
-		TagTextbox.TextXAlignment = Enum.TextXAlignment.Left
 
 		ChangeBtn.Name = "ChangeBtn"
 		ChangeBtn.Parent = UserChange
