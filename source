@@ -2145,7 +2145,7 @@ function DiscordLib:Window(text)
 				Icon.BorderColor3 = Color3.fromRGB(27, 42, 53)
 				Icon.Position = UDim2.new(0, 8, 0, 8)
 				Icon.Size = UDim2.new(0, 13, 0, 13)
-				Icon.Image = "8189644261"
+				Icon.Image = "rbxassetid://8189644261"
 				Icon.ImageColor3 = Color3.fromRGB(114, 118, 125)
 				
 				Toggle.MouseButton1Click:Connect(function()
@@ -2166,7 +2166,7 @@ function DiscordLib:Window(text)
 							TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
 							{ImageTransparency = 1}
 						):Play()
-						Icon.Image = "8189643942"
+						Icon.Image = "rbxassetid://8189643942"
 						wait(.1)
 						TweenService:Create(
 							Icon,
