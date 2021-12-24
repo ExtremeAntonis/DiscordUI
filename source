@@ -1740,7 +1740,7 @@ function DiscordLib:Window(text)
 		ChannelTitle.Size = UDim2.new(0, 95, 0, 39)
 		ChannelTitle.Font = Enum.Font.GothamSemibold
 		ChannelTitle.Text = ""
-		ChannelTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
+		ChannelTitle.TextColor3 = Color3.fromRGB(46, 204, 113)
 		ChannelTitle.TextSize = 20.000
 		ChannelTitle.TextXAlignment = Enum.TextXAlignment.Left
 
