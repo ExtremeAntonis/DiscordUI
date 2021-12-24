@@ -1933,7 +1933,7 @@ function DiscordLib:Window(text)
 			ChannelBtn.Name = text .. "ChannelBtn"
 			ChannelBtn.Parent = ServerChannelHolder
 			ChannelBtn.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
-			ChannelBtn.BorderSizePixel = 0
+			ChannelBtn.BorderSizePixel = 2
             ChannelBtn.BorderColor3 = Color3.fromRGB(255, 0, 0)
 			ChannelBtn.Position = UDim2.new(0.24118948, 0, 0.578947365, 0)
 			ChannelBtn.Size = UDim2.new(0, 160, 0, 30)
