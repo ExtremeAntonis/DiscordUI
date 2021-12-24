@@ -1696,7 +1696,7 @@ function DiscordLib:Window(text)
 		Glow.Size = UDim2.new(1, 30, 1, 30)
 		Glow.ZIndex = 0
 		Glow.Image = "rbxassetid://4996891970"
-		Glow.ImageColor3 = Color3.fromRGB(15, 15, 15)
+		Glow.ImageColor3 = Color3.fromRGB(16, 12, 12)
 		Glow.ScaleType = Enum.ScaleType.Slice
 		Glow.SliceCenter = Rect.new(20, 20, 280, 280)
 
@@ -2318,7 +2318,7 @@ function DiscordLib:Window(text)
 				GlowBubble.Size = UDim2.new(1, 30, 1, 30)
 				GlowBubble.ZIndex = 0
 				GlowBubble.Image = "rbxassetid://4996891970"
-				GlowBubble.ImageColor3 = Color3.fromRGB(15, 15, 15)
+				GlowBubble.ImageColor3 = Color3.fromRGB(16, 12, 12)
 				GlowBubble.ScaleType = Enum.ScaleType.Slice
 				GlowBubble.SliceCenter = Rect.new(20, 20, 280, 280)
 
@@ -2422,7 +2422,7 @@ function DiscordLib:Window(text)
 
 				Dropdown.Name = "Dropdown"
 				Dropdown.Parent = ChannelHolder
-				Dropdown.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
+				Dropdown.BackgroundColor3 = Color3.fromRGB(16, 12, 12)
 				Dropdown.BackgroundTransparency = 1.000
 				Dropdown.Position = UDim2.new(0.0796874985, 0, 0.445175439, 0)
 				Dropdown.Size = UDim2.new(0, 403, 0, 73)
@@ -2452,7 +2452,7 @@ function DiscordLib:Window(text)
 
 				DropdownFrame.Name = "DropdownFrame"
 				DropdownFrame.Parent = DropdownTitle
-				DropdownFrame.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
+				DropdownFrame.BackgroundColor3 = Color3.fromRGB(16, 12, 12)
 				DropdownFrame.ClipsDescendants = true
 				DropdownFrame.Position = UDim2.new(0.00999999978, 0, 1.06638527, 0)
 				DropdownFrame.Selectable = true
@@ -2514,7 +2514,7 @@ function DiscordLib:Window(text)
 
 				DropdownFrameMain.Name = "DropdownFrameMain"
 				DropdownFrameMain.Parent = DropdownTitle
-				DropdownFrameMain.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
+				DropdownFrameMain.BackgroundColor3 = Color3.fromRGB(16, 12, 12)
 				DropdownFrameMain.ClipsDescendants = true
 				DropdownFrameMain.Position = UDim2.new(0.00999999978, 0, 2.2568965, 0)
 				DropdownFrameMain.Selectable = true
