@@ -1967,7 +1967,7 @@ function DiscordLib:Window(text)
 			ChannelBtnTitle.Size = UDim2.new(0, 95, 0, 39)
 			ChannelBtnTitle.Font = Enum.Font.Gotham
 			ChannelBtnTitle.Text = text
-			ChannelBtnTitle.TextColor3 = Color3.fromRGB(114, 118, 125)
+			ChannelBtnTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
 			ChannelBtnTitle.TextSize = 14.000
 			ChannelBtnTitle.TextXAlignment = Enum.TextXAlignment.Left
 			ServerChannelHolder.CanvasSize = UDim2.new(0, 0, 0, ServerChannelHolderLayout.AbsoluteContentSize.Y)
@@ -1998,7 +1998,7 @@ function DiscordLib:Window(text)
 			ChannelBtn.MouseEnter:Connect(function()
 				if currentchanneltoggled ~= ChannelBtn.Name then
 				ChannelBtn.BackgroundColor3 = Color3.fromRGB(46, 204, 113)
-					ChannelBtnTitle.TextColor3 = Color3.fromRGB(220,221,222)
+					ChannelBtnTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
 				end
 			end)
 			
