@@ -2527,7 +2527,7 @@ function DiscordLib:Window(text)
 
 				DropItemHolderLabel.Name = "ItemHolderLabel"
 				DropItemHolderLabel.Parent = DropdownFrameMain
-				DropItemHolderLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				DropItemHolderLabel.BackgroundColor3 = Color3.fromRGB(46, 204, 113)
 				DropItemHolderLabel.BackgroundTransparency = 1.000
 				DropItemHolderLabel.Position = UDim2.new(0.0178571437, 0, 0, 0)
 				DropItemHolderLabel.Size = UDim2.new(0, 193, 0, 13)
@@ -2540,7 +2540,7 @@ function DiscordLib:Window(text)
 				DropItemHolder.Name = "ItemHolder"
 				DropItemHolder.Parent = DropItemHolderLabel
 				DropItemHolder.Active = true
-				DropItemHolder.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				DropItemHolder.BackgroundColor3 = Color3.fromRGB(46, 204, 113)
 				DropItemHolder.BackgroundTransparency = 1.000
 				DropItemHolder.Position = UDim2.new(0, 0, 0.215384638, 0)
 				DropItemHolder.Size = UDim2.new(0, 385, 0, 0)
