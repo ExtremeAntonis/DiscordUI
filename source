@@ -2422,7 +2422,7 @@ function DiscordLib:Window(text)
 
 				Dropdown.Name = "Dropdown"
 				Dropdown.Parent = ChannelHolder
-				Dropdown.BackgroundColor3 = Color3.fromRGB(16, 12, 12)
+				Dropdown.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
 				Dropdown.BackgroundTransparency = 1.000
 				Dropdown.Position = UDim2.new(0.0796874985, 0, 0.445175439, 0)
 				Dropdown.Size = UDim2.new(0, 403, 0, 73)
@@ -2452,7 +2452,7 @@ function DiscordLib:Window(text)
 
 				DropdownFrame.Name = "DropdownFrame"
 				DropdownFrame.Parent = DropdownTitle
-				DropdownFrame.BackgroundColor3 = Color3.fromRGB(16, 12, 12)
+				DropdownFrame.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
 				DropdownFrame.ClipsDescendants = true
 				DropdownFrame.Position = UDim2.new(0.00999999978, 0, 1.06638527, 0)
 				DropdownFrame.Selectable = true
