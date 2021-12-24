@@ -2621,7 +2621,7 @@ function DiscordLib:Window(text)
 					end)
 					
 					Item.MouseLeave:Connect(function()
-						ItemText.TextColor3 = Color3.fromRGB(212, 212, 212)
+						ItemText.TextColor3 = Color3.fromRGB(46, 204, 113)
 						Item.BackgroundTransparency = 1
 					end)
 					
