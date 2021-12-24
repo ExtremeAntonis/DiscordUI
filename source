@@ -1516,13 +1516,13 @@ function DiscordLib:Window(text)
 		Text2.Size = UDim2.new(0, 272, 0, 63)
 		Text2.Font = Enum.Font.Gotham
 		Text2.Text = desctext
-		Text2.TextColor3 = Color3.fromRGB(171, 172, 176)
+		Text2.TextColor3 = Color3.fromRGB(46, 204, 113)
 		Text2.TextSize = 14.000
 		Text2.TextWrapped = true
 
 		AlrightBtn.Name = "AlrightBtn"
 		AlrightBtn.Parent = Notification
-		AlrightBtn.BackgroundColor3 = Color3.fromRGB(46, 204, 113 )
+		AlrightBtn.BackgroundColor3 = Color3.fromRGB(46, 204, 113)
 		AlrightBtn.Position = UDim2.new(0.0332369953, 0, 0.789141417, 0)
 		AlrightBtn.Size = UDim2.new(0, 322, 0, 27)
 		AlrightBtn.Font = Enum.Font.Gotham
