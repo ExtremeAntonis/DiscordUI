@@ -1932,7 +1932,7 @@ function DiscordLib:Window(text)
 
 			ChannelBtn.Name = text .. "ChannelBtn"
 			ChannelBtn.Parent = ServerChannelHolder
-			ChannelBtn.BackgroundColor3 = Color3.fromRGB(3, 3, 3)
+			ChannelBtn.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
 			ChannelBtn.BorderSizePixel = 0
 			ChannelBtn.Position = UDim2.new(0.24118948, 0, 0.578947365, 0)
 			ChannelBtn.Size = UDim2.new(0, 160, 0, 30)
@@ -2004,7 +2004,7 @@ function DiscordLib:Window(text)
 			
 			ChannelBtn.MouseLeave:Connect(function()
 				if currentchanneltoggled ~= ChannelBtn.Name then
-				ChannelBtn.BackgroundColor3 = Color3.fromRGB(4, 4, 4)
+				ChannelBtn.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
 				ChannelBtnTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
 				end
 			end)
@@ -2018,7 +2018,7 @@ function DiscordLib:Window(text)
 				end
 				for i, v in next, ServerChannelHolder:GetChildren() do
 					if v.ClassName == "TextButton" then
-						v.BackgroundColor3 = Color3.fromRGB(4, 4, 4)
+						v.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
 						v.ChannelBtnTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
 					end
 					ServerFrame.Visible = true
