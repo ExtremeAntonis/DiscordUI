@@ -2699,7 +2699,7 @@ function DiscordLib:Window(text)
 					ItemText.Position = UDim2.new(0.0211081803, 0, 0, 0)
 					ItemText.Size = UDim2.new(0, 192, 0, 29)
 					ItemText.Font = Enum.Font.Gotham
-					ItemText.TextColor3 = Color3.fromRGB(212, 212, 212)
+					ItemText.TextColor3 = Color3.fromRGB(46, 204, 113)
 					ItemText.TextSize = 14.000
 					ItemText.TextXAlignment = Enum.TextXAlignment.Left
 					ItemText.Text = textadd
