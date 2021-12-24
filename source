@@ -2533,7 +2533,7 @@ function DiscordLib:Window(text)
 				DropItemHolderLabel.Size = UDim2.new(0, 193, 0, 13)
 				DropItemHolderLabel.Font = Enum.Font.Gotham
 				DropItemHolderLabel.Text = ""
-				DropItemHolderLabel.TextColor3 = Color3.fromRGB(212, 212, 212)
+				DropItemHolderLabel.TextColor3 = Color3.fromRGB(46, 204, 113)
 				DropItemHolderLabel.TextSize = 14.000
 				DropItemHolderLabel.TextXAlignment = Enum.TextXAlignment.Left
 
