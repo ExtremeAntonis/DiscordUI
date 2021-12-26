@@ -1,3 +1,6 @@
+Tab1:Toggle("                                       Auto Farm", nil, function(value)
+AutoFarm = value
+while AutoFarm do wait()
 ----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------
 if equipshoe == "Regular Shoes" and selectedShoe == "One" then wait()
 local NPC = game:GetService("Players").LocalPlayer.Character
@@ -6118,3 +6121,744 @@ wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wa
 local NPC = game:GetService("Players").LocalPlayer.Character
 NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World11.Part.Position)
 NPC.Humanoid.MoveToFinished:Wait()
+end
+end
+end)rea8["Podium_28"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World8.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------
+elseif equipshoe == "Volcano Miner Shoes" and selectedShoe == "Six" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area8["Podium_28"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World8.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------
+elseif equipshoe == "Volcano Miner Shoes" and selectedShoe == "Seven" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area8["Podium_28"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World8.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------
+elseif equipshoe == "Volcano Miner Shoes" and selectedShoe == "Eight" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area8["Podium_28"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World8.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------NINE----------NINE----------NINE----------NINE----------NINE----------NINE----------NINE----------NINE----------NINE----------NINE----------
+elseif equipshoe == "Volcano Miner Shoes" and selectedShoe == "Nine" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area8["Podium_28"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World8.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------
+elseif equipshoe == "Volcano Miner Shoes" and selectedShoe == "Ten" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area8["Podium_28"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World8.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------
+elseif equipshoe == "Iron Miner Shoes" and selectedShoe == "One" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area8["Podium_29"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World8.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------TWO----------TWO----------TWO----------TWO----------TWO----------TWO----------TWO----------TWO----------TWO----------
+elseif equipshoe == "Iron Miner Shoes" and selectedShoe == "Two" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area8["Podium_29"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World8.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------THREE----------THREE----------THREE----------THREE----------THREE----------THREE----------THREE----------THREE----------
+elseif equipshoe == "Iron Miner Shoes" and selectedShoe == "Three" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area8["Podium_29"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World8.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------FOUR----------FOUR----------FOUR----------FOUR----------FOUR----------FOUR----------FOUR----------FOUR----------FOUR----------
+elseif equipshoe == "Iron Miner Shoes" and selectedShoe == "Four" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area8["Podium_29"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World8.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------FIVE----------FIVE----------FIVE----------FIVE----------FIVE----------FIVE----------FIVE----------FIVE----------FIVE----------
+elseif equipshoe == "Iron Miner Shoes" and selectedShoe == "Five" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area8["Podium_29"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World8.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------
+elseif equipshoe == "Iron Miner Shoes" and selectedShoe == "Six" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area8["Podium_29"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World8.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------
+elseif equipshoe == "Iron Miner Shoes" and selectedShoe == "Seven" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area8["Podium_29"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World8.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------
+elseif equipshoe == "Iron Miner Shoes" and selectedShoe == "Eight" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area8["Podium_29"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World8.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------NINE----------NINE----------NINE----------NINE----------NINE----------NINE----------NINE----------NINE----------NINE----------NINE----------
+elseif equipshoe == "Iron Miner Shoes" and selectedShoe == "Nine" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area8["Podium_29"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World8.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------
+elseif equipshoe == "Iron Miner Shoes" and selectedShoe == "Ten" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area8["Podium_29"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World8.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------
+elseif equipshoe == "Faded Miner Shoes" and selectedShoe == "One" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area8["Podium_30"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World8.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------TWO----------TWO----------TWO----------TWO----------TWO----------TWO----------TWO----------TWO----------TWO----------
+elseif equipshoe == "Faded Miner Shoes" and selectedShoe == "Two" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area8["Podium_30"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World8.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------THREE----------THREE----------THREE----------THREE----------THREE----------THREE----------THREE----------THREE----------
+elseif equipshoe == "Faded Miner Shoes" and selectedShoe == "Three" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area8["Podium_30"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World8.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------FOUR----------FOUR----------FOUR----------FOUR----------FOUR----------FOUR----------FOUR----------FOUR----------FOUR----------
+elseif equipshoe == "Faded Miner Shoes" and selectedShoe == "Four" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area8["Podium_30"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World8.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------FIVE----------FIVE----------FIVE----------FIVE----------FIVE----------FIVE----------FIVE----------FIVE----------FIVE----------
+elseif equipshoe == "Faded Miner Shoes" and selectedShoe == "Five" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area8["Podium_30"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World8.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------
+elseif equipshoe == "Faded Miner Shoes" and selectedShoe == "Six" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area8["Podium_30"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World8.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------
+elseif equipshoe == "Faded Miner Shoes" and selectedShoe == "Seven" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area8["Podium_30"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World8.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------
+elseif equipshoe == "Faded Miner Shoes" and selectedShoe == "Eight" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area8["Podium_30"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World8.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------NINE----------NINE----------NINE----------NINE----------NINE----------NINE----------NINE----------NINE----------NINE----------NINE----------
+elseif equipshoe == "Faded Miner Shoes" and selectedShoe == "Nine" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area8["Podium_30"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World8.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------
+elseif equipshoe == "Faded Miner Shoes" and selectedShoe == "Ten" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area8["Podium_30"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World8.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------
+elseif equipshoe == "Samurai Shoes" and selectedShoe == "One" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_26"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------TWO----------TWO----------TWO----------TWO----------TWO----------TWO----------TWO----------TWO----------TWO----------
+elseif equipshoe == "Samurai Shoes" and selectedShoe == "Two" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_26"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------THREE----------THREE----------THREE----------THREE----------THREE----------THREE----------THREE----------THREE----------
+elseif equipshoe == "Samurai Shoes" and selectedShoe == "Three" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_26"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------FOUR----------FOUR----------FOUR----------FOUR----------FOUR----------FOUR----------FOUR----------FOUR----------FOUR----------
+elseif equipshoe == "Samurai Shoes" and selectedShoe == "Four" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_26"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------FIVE----------FIVE----------FIVE----------FIVE----------FIVE----------FIVE----------FIVE----------FIVE----------FIVE----------
+elseif equipshoe == "Samurai Shoes" and selectedShoe == "Five" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_26"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------
+elseif equipshoe == "Samurai Shoes" and selectedShoe == "Six" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_26"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------
+elseif equipshoe == "Samurai Shoes" and selectedShoe == "Seven" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_26"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------
+elseif equipshoe == "Samurai Shoes" and selectedShoe == "Eight" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_26"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------NINE----------NINE----------NINE----------NINE----------NINE----------NINE----------NINE----------NINE----------NINE----------NINE----------
+elseif equipshoe == "Samurai Shoes" and selectedShoe == "Nine" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_26"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------
+elseif equipshoe == "Samurai Shoes" and selectedShoe == "Ten" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_26"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------
+elseif equipshoe == "Double Samurai Shoes" and selectedShoe == "One" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_27"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------TWO----------TWO----------TWO----------TWO----------TWO----------TWO----------TWO----------TWO----------TWO----------
+elseif equipshoe == "Double Samurai Shoes" and selectedShoe == "Two" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_27"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------THREE----------THREE----------THREE----------THREE----------THREE----------THREE----------THREE----------THREE----------
+elseif equipshoe == "Double Samurai Shoes" and selectedShoe == "Three" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_27"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------FOUR----------FOUR----------FOUR----------FOUR----------FOUR----------FOUR----------FOUR----------FOUR----------FOUR----------
+elseif equipshoe == "Double Samurai Shoes" and selectedShoe == "Four" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_27"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------FIVE----------FIVE----------FIVE----------FIVE----------FIVE----------FIVE----------FIVE----------FIVE----------FIVE----------
+elseif equipshoe == "Double Samurai Shoes" and selectedShoe == "Five" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_27"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------
+elseif equipshoe == "Double Samurai Shoes" and selectedShoe == "Six" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_27"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------
+elseif equipshoe == "Double Samurai Shoes" and selectedShoe == "Seven" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_27"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------
+elseif equipshoe == "Double Samurai Shoes" and selectedShoe == "Eight" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_27"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------NINE----------NINE----------NINE----------NINE----------NINE----------NINE----------NINE----------NINE----------NINE----------NINE----------
+elseif equipshoe == "Double Samurai Shoes" and selectedShoe == "Nine" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_27"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------
+elseif equipshoe == "Double Samurai Shoes" and selectedShoe == "Ten" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_27"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------
+elseif equipshoe == "Orange Samurai Shoes" and selectedShoe == "One" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_28"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------TWO----------TWO----------TWO----------TWO----------TWO----------TWO----------TWO----------TWO----------TWO----------
+elseif equipshoe == "Orange Samurai Shoes" and selectedShoe == "Two" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_28"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------THREE----------THREE----------THREE----------THREE----------THREE----------THREE----------THREE----------THREE----------
+elseif equipshoe == "Orange Samurai Shoes" and selectedShoe == "Three" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_28"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------FOUR----------FOUR----------FOUR----------FOUR----------FOUR----------FOUR----------FOUR----------FOUR----------FOUR----------
+elseif equipshoe == "Orange Samurai Shoes" and selectedShoe == "Four" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_28"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------FIVE----------FIVE----------FIVE----------FIVE----------FIVE----------FIVE----------FIVE----------FIVE----------FIVE----------
+elseif equipshoe == "Orange Samurai Shoes" and selectedShoe == "Five" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_28"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------
+elseif equipshoe == "Orange Samurai Shoes" and selectedShoe == "Six" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_28"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------SEVEN----------
+elseif equipshoe == "Orange Samurai Shoes" and selectedShoe == "Seven" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_28"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------EIGHT----------
+elseif equipshoe == "Orange Samurai Shoes" and selectedShoe == "Eight" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_28"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------NINE----------NINE----------NINE----------NINE----------NINE----------NINE----------NINE----------NINE----------NINE----------NINE----------
+elseif equipshoe == "Orange Samurai Shoes" and selectedShoe == "Nine" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_28"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------TEN----------
+elseif equipshoe == "Orange Samurai Shoes" and selectedShoe == "Ten" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_28"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------
+elseif equipshoe == "Neon Samurai Shoes" and selectedShoe == "One" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_29"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------TWO----------TWO----------TWO----------TWO----------TWO----------TWO----------TWO----------TWO----------TWO----------
+elseif equipshoe == "Neon Samurai Shoes" and selectedShoe == "Two" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_29"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------THREE----------THREE----------THREE----------THREE----------THREE----------THREE----------THREE----------THREE----------
+elseif equipshoe == "Neon Samurai Shoes" and selectedShoe == "Three" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_29"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------FOUR----------FOUR----------FOUR----------FOUR----------FOUR----------FOUR----------FOUR----------FOUR----------FOUR----------
+elseif equipshoe == "Neon Samurai Shoes" and selectedShoe == "Four" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_29"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------FIVE----------FIVE----------FIVE----------FIVE----------FIVE----------FIVE----------FIVE----------FIVE----------FIVE----------
+elseif equipshoe == "Neon Samurai Shoes" and selectedShoe == "Five" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_29"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World9.Part.Position)
+NPC.Humanoid.MoveToFinished:Wait()
+----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------SIX----------
+elseif equipshoe == "Neon Samurai Shoes" and selectedShoe == "Six" then wait()
+local NPC = game:GetService("Players").LocalPlayer.Character
+NPC.Humanoid:MoveTo(game:GetService("Workspace").Boots.Area9["Podium_29"].Position) NPC.Humanoid.MoveToFinished:Wait()
+local virtualUser = game:GetService('VirtualUser')
+virtualUser:CaptureController()
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65')
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+local NPC = game:GetSe
