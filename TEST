@@ -1,6 +1,3 @@
-Tab1:Toggle("                                       Auto Farm", nil, function(value)
-AutoFarm = value
-while AutoFarm do wait()
 ----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------ONE----------
 if equipshoe == "Regular Shoes" and selectedShoe == "One" then wait()
 local NPC = game:GetService("Players").LocalPlayer.Character
@@ -6121,6 +6118,3 @@ wait(.3) virtualUser:SetKeyDown('0x65') wait(.3) virtualUser:SetKeyUp('0x65') wa
 local NPC = game:GetService("Players").LocalPlayer.Character
 NPC.Humanoid:MoveTo(game:GetService("Workspace").Checkers.World11.Part.Position)
 NPC.Humanoid.MoveToFinished:Wait()
-end
-end
-end)
